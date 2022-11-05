@@ -14,9 +14,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:7B68EE,100:6495ED&customColorList=0,1,2,3,30&height=300&section=header&text=Park%20EunSol&fontSize=80&fontColor=191970)
 
-<h1>💻 My Stack </h1>
+<h2> Web developer </h2>
+
+<h2>💻 My Stack </h2>
 <div align = center>
-  <h2> 📚Platforms & Languages 📚</h2>
+  <h3> 📚Platforms & Languages 📚</h3>
   
 <div align = center>
   <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
@@ -38,7 +40,7 @@
   <br>
   <br>
   
-  <h2> 🛠️Tools🛠️ </h2>
+  <h3> 🛠️Tools🛠️ </h3>
    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
    <br>
@@ -47,10 +49,10 @@
    <img alt="PyCharm" src ="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
    <br>
    
-   <h2>🗨️ My Profile 🗨️ </h2>
+   <h3>🗨️ My Profile 🗨️ </h3>
     
    
-   <h1> Used Languages </h1>
+   <h2> Used Languages </h2>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssorn88&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=ssorn88&show_icons=true">
    
