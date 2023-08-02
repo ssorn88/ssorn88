@@ -14,8 +14,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:7B68EE,100:6495ED&customColorList=0,1,2,3,30&height=300&section=header&text=Park%20EunSol&fontSize=80&fontColor=191970)
 
-<h2> Web developer </h2>
-웹개발 프론트 엔트 개발자 박은솔입니다! 학부 3학년 재학중이며, 비전공자이지만 동아리, 해커톤을 통해 개발자 역량을 향상하고 있습니다.
+<h2> Computer Vision & Deep Learning </h2>
 
 <h2>💻 My Stack </h2>
 <div align = center>
