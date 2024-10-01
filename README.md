@@ -9,7 +9,6 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:7B68EE,100:6495ED&customColorList=0,1,2,3,30&height=300&section=header&text=Park%20EunSol&fontSize=80&fontColor=191970)
@@ -58,7 +57,8 @@
    
    
    
-  
+  -->
+
        
  
  
